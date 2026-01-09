@@ -1,6 +1,7 @@
 # VeloCity Rental – Airbnb-Inspired Exotic Fleet Marketplace
 
-![Project Cover](https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600&q=80&auto=format&fit=crop)
+## Project Cover:
+<img width="1920" height="991" alt="VeloCity-Luxury-Car-Rentals-01-09-2026_01_59_PM" src="https://github.com/user-attachments/assets/1e732ec5-1c9e-4a94-981c-27221fb4892a" />
 
 ## 🚀 Project Overview
 
