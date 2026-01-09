@@ -8,7 +8,7 @@ VeloCity is an adapted clone that borrows the discovery flows of Airbnb and appl
 
 **The Goal:** Showcase how Airbnb-inspired UX patterns translate to a premium, vehicle-focused vertical while staying production-ready inside the Next.js App Router.
 
-**Live Demo:** [velocity-rental-ckschevmy-ampliaros-projects.vercel.app](https://velocity-rental-ckschevmy-ampliaros-projects.vercel.app/)
+**Live Demo:** [velocity-rental-platform.vercel.app](https://velocity-rental-platform.vercel.app/)
 
 ## ✨ Signature Modules
 
@@ -68,8 +68,8 @@ src/
 ## 🏁 Run the Project Locally
 
 ```bash
-git clone https://github.com/renatogg-dev/velocity-rental-platform.git
-cd velocity-rental-platform
+git clone https://github.com/renatogg-dev/velocity-rental.git
+cd velocity-rental
 npm install
 npm run dev
 ```
