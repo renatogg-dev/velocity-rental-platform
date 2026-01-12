@@ -69,7 +69,7 @@ src/
 ## 🏁 Run the Project Locally
 
 ```bash
-git clone https://github.com/renatogg-dev/velocity-rental.git
+git clone https://github.com/renatogg-dev/velocity-rental-plataform.git
 cd velocity-rental
 npm install
 npm run dev
